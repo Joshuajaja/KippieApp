@@ -11,6 +11,7 @@ import com.example.myapplication4.databinding.FragmentHomeBinding
 
 class HomeFragment : Fragment() {
 
+    //test
     private var _binding: FragmentHomeBinding? = null
 
     // This property is only valid between onCreateView and
